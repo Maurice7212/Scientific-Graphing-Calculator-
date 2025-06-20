@@ -24,3 +24,6 @@ An advanced Scientific Graphing Calculator built for students, engineers, and ma
 Frontend: HTML, CSS, JavaScript, Three.js
 
 Math Engine: Math.js, custom algorithms for symbolic computation
+![FireShot Capture 006 - Advanced Scientific Graphing Calculator - ](https://github.com/user-attachments/assets/c5405ee4-142c-4bd4-884a-3e6886c08c45)
+
+
